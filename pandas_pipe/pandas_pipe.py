@@ -1,5 +1,5 @@
 """
-Functions for to be used by pandas pipe
+Functions decorated with log_step
 """
 
 import logging
