@@ -1,0 +1,5 @@
+aaa,myid,num,text,states
+10,1,"1, 2, 3","aa, bb, cc",Wyoming; Illinois; New Hampshire
+11,2,,,Pennsylvania
+12,3,"1, 2","cc, dd",New York
+13,4,,ee,Pennsylvania

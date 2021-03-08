@@ -1,0 +1,34 @@
+aaa,myid,num,text,states
+10,1,1,aa,Wyoming
+10,1,1,aa, Illinois
+10,1,1,aa, New Hampshire
+10,1,1, bb,Wyoming
+10,1,1, bb, Illinois
+10,1,1, bb, New Hampshire
+10,1,1, cc,Wyoming
+10,1,1, cc, Illinois
+10,1,1, cc, New Hampshire
+10,1, 2,aa,Wyoming
+10,1, 2,aa, Illinois
+10,1, 2,aa, New Hampshire
+10,1, 2, bb,Wyoming
+10,1, 2, bb, Illinois
+10,1, 2, bb, New Hampshire
+10,1, 2, cc,Wyoming
+10,1, 2, cc, Illinois
+10,1, 2, cc, New Hampshire
+10,1, 3,aa,Wyoming
+10,1, 3,aa, Illinois
+10,1, 3,aa, New Hampshire
+10,1, 3, bb,Wyoming
+10,1, 3, bb, Illinois
+10,1, 3, bb, New Hampshire
+10,1, 3, cc,Wyoming
+10,1, 3, cc, Illinois
+10,1, 3, cc, New Hampshire
+11,2,,,Pennsylvania
+12,3,1,cc,New York
+12,3,1, dd,New York
+12,3, 2,cc,New York
+12,3, 2, dd,New York
+13,4,,ee,Pennsylvania
