@@ -1,4 +1,5 @@
 # Purpose
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 * a collection of pandas DataFrame methods and functions I commonly used decorated with [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)'s `@log_step` to enable logging within method chaining
 * Wanted to use the logging of common pandas methods across projects
 * Inspired from Vincent D. Warmerdam's PyData Eindhoven 2019 talk titled [Untitled12.ipynb](https://www.youtube.com/watch?v=yXGCKqo5cEY)
