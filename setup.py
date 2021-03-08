@@ -4,6 +4,7 @@ setup(
     name="pandas_pipe",
     version="0.0.0",
     description="routine pandas method chain links wrapped with scikit-lego",
+    url="https://github.com/bdatko/panda_pipe",
     author="Benjamin Datko",
     author_email="ben.datko@gmail.com",
     license="MIT",
