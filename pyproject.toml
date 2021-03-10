@@ -22,7 +22,7 @@ homepage = "https://github.com/bdatko/panda_pipe"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-numpy = "^1.20.1"
+numpy = "^1.19.2"
 pandas = ">=1.1.5"
 scikit-lego = ">=0.6.1"
 
