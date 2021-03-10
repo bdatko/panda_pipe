@@ -1,0 +1,37 @@
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "0.0.0"
+tag_format = "$version"
+version_files = [
+    "pandas_pipe/__init__.py:__version__",
+    "setup.py:version",
+    "pyproject.toml:version"
+]
+
+[tool.poetry]
+name = "pandas_pipe"
+version = "0.0.0"
+description = "routine pandas method chain links wrapped with scikit-lego"
+authors = ["Benjamin Datko"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/bdatko/panda_pipe"
+homepage = "https://github.com/bdatko/panda_pipe"
+
+
+[tool.poetry.dependencies]
+python = "^3.7"
+numpy = "^1.20.1"
+pandas = ">=1.1.5"
+scikit-lego = ">=0.6.1"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+pytest = "^6.2.2"
+commitizen = "^2.16.0"
+pre-commit = "^2.11.1"
+mypy = "^0.812"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
