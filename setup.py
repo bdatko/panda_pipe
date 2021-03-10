@@ -8,7 +8,7 @@ LONG_DESC_TYPE = "text/markdown"
 
 setup(
     name="pandas_pipe",
-    version="0.0.0",
+    version="0.0.1",
     description="routine pandas method chain links wrapped with scikit-lego",
     long_description=LONG_DESCRIPTION,
     long_description_content_type=LONG_DESC_TYPE,

@@ -1,6 +1,6 @@
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.0.0"
+version = "0.0.1"
 tag_format = "$version"
 annotated_tag = true
 version_files = [
@@ -11,7 +11,7 @@ version_files = [
 
 [tool.poetry]
 name = "pandas_pipe"
-version = "0.0.0"
+version = "0.0.1"
 description = "routine pandas method chain links wrapped with scikit-lego"
 authors = ["Benjamin Datko"]
 license = "MIT"
