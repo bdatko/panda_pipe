@@ -1,5 +1,7 @@
-# Purpose
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/commitizen-tools/commitizen) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas_pipe) ![PyPI](https://img.shields.io/pypi/v/pandas_pipe)
+## Install
+```pip install pandas_pipe```
+## Purpose
 * a collection of pandas DataFrame methods and functions I commonly used decorated with [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)'s `@log_step` to enable logging within method chaining
 * Wanted to use the logging of common pandas methods across projects
 * Inspired from Vincent D. Warmerdam's PyData Eindhoven 2019 talk titled [Untitled12.ipynb](https://www.youtube.com/watch?v=yXGCKqo5cEY)
